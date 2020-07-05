@@ -8,3 +8,4 @@ Make sure to fill in your information using this template
  -->
 
 - Orlando Coyoy: [@ocoyoyix](https://github.com/ocoyoyix)
+- Salta Galieva: [@salta9able](https://github.com/Salta9able)
